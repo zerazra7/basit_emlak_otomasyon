@@ -1,0 +1,113 @@
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\sena efe\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\sena efe\Documents\Visual Studio 2017\Projects\FORM ÖDEVİ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sena\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sena\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sena\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Source\Repos\emlak-otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\.vs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.anaform6.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.anaform6.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.anaform6.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zera\Desktop\egitim\c# dersleri\emlak_otomasyon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
